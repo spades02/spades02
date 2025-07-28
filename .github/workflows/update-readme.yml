@@ -1,0 +1,19 @@
+name: Update Repo List
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update README
+        uses: JoeSchr/readme-repo-list@v1
+        with:
+          gh_token: ${{ secrets.GH_token }}
+          max_repos: 4
+          sort: pushed
