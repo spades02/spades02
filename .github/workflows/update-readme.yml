@@ -14,6 +14,6 @@ jobs:
       - name: Update README
         uses: JoeSchr/readme-repo-list@v1
         with:
-          gh_token: ${{ secrets.GH_token }}
+          gh_token: ${{ secrets.GH_TOKEN }}
           max_repos: 4
           sort: pushed
