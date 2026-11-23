@@ -2,7 +2,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=01&pause=1000&color=5D58F7&center=true&width=480&lines=Abdullah+Zahid)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=480&lines=AI+Enhanced+Full-Stack+Engineer;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=480&lines=AI+Enhanced+Full-Stack+Engineer;Software+Developer;AI+Inference+Engineer)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=spades02&theme=meta-dark&border_radius=9)](https://git.io/streak-stats)
 
