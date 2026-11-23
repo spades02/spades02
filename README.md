@@ -7,8 +7,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=spades02&theme=meta-dark&border_radius=9)](https://git.io/streak-stats)
 
 
-![Static Badge](https://img.shields.io/badge/smart_contract-solidity-red)
-![Static Badge](https://img.shields.io/badge/ethereum-blockchain-blue)
+![Static Badge](https://img.shields.io/badge/ai-inference-red)
+![Static Badge](https://img.shields.io/badge/engineering-blue)
 ![Static Badge](https://img.shields.io/badge/mern-stack-green)
 ![Static Badge](https://img.shields.io/badge/next_js-framework-purple)
 [![Hits](https://hits.sh/github.com/spades02.svg)](https://hits.sh/github.com/spades02/)
@@ -28,7 +28,6 @@
   <a href="https://github.com/spades02/millow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spades02&repo=millow&theme=radical" width="400" height="130" />
   </a>
-  <br />
   <a href="https://github.com/spades02/autolms">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spades02&repo=autolms&theme=radical" width="400" height="130" />
   </a>
