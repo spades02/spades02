@@ -19,7 +19,9 @@
 ### 📂 Top Projects
 
 <div align="center">
-
+  <a href="https://github.com/spades02/mafs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spades02&repo=mafs&theme=radical" width="400" height="130" />
+  </a>
   <a href="https://github.com/spades02/docverify">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spades02&repo=docverify&theme=radical" width="400" height="130" />
   </a>
